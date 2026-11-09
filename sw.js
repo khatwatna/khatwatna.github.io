@@ -8,7 +8,7 @@
  *   and API calls always hit the network.
  * Bump CACHE when the precache list changes; activate deletes older caches.
  */
-const CACHE = 'khatwatna-v5';
+const CACHE = 'khatwatna-v6';
 const PRECACHE = [
   './',
   './index.html',
